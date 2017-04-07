@@ -8,7 +8,6 @@ import java.util.Map;
 /**
  * Created by SL on 2017/4/7.
  */
-@RunWith()
 public class BbcIndexTest {
 
     @Test
